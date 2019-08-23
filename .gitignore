@@ -1,0 +1,5 @@
+/DeepNeuralNetwork/__pycache__
+.idea
+/DeepNeuralNetwork/alexnet/model
+/DeepNeuralNetwork/vgg16/__pycache__
+/DeepNeuralNetwork/vgg16/model
